@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Webdevelopment.
 - 🌱 I’m currently learning Frontend languages.
 - 💞️ I’m looking to collaborate on fullstack web development projects.
-- 📫 You can reach me via my mail thanujapallapu89@gmail.com.
+- 📫 You can reach me via my mail thanujapallapu894@gmail.com.
 
 <!---
 Thanuja-Webdeveloper/Thanuja-Webdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
